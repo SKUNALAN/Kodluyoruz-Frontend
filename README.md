@@ -1,6 +1,6 @@
 # **Kodluyoruz Frontend**
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi HTML dersleri bölüm sonu çalışmaları kapsamında oluşturuldu. İçreisinde bir adet README, bir adet index.html, bir adet contact.html, bir adet de about-us.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi HTML dersleri bölüm sonu çalışmaları kapsamında oluşturuldu. İçerisinde bir adet README,bir adet img klasörü, bir adet index.html, bir adet contact.html, bir adet de about-us.html barındırıyor.
 
 
 ## **Installation**
